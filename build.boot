@@ -6,7 +6,8 @@
                  [aleph "0.4.2-alpha8"]
                  [com.taoensso/timbre "4.7.4"]
                  [org.clojure/core.async "0.2.395"]
-                 [org.clojure/core.match "0.3.0-alpha4"]])
+                 [org.clojure/core.match "0.3.0-alpha4"]
+                 [org.clojars.mkhoeini/telegram-bot-api "0.1.0-SNAPSHOT"]])
 
 (task-options!
  pom {:project 'org.clojars.mkhoeini/chejoobot-clj
